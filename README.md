@@ -1,5 +1,4 @@
 fast-sqlparse Library
-1. Project Overview
 
 Project Description:
 fast-sqlparse is a SQL parsing library developed in C++ (C++17), designed for efficiently parsing large volumes of SQL statements, including long and complex queries. It supports parsing of SELECT, CREATE TABLE, INSERT, UPDATE, DELETE, and VIEW definition statements, as well as Common Table Expressions (CTEs). The library can also parse multiple SQL statements in a single input.
